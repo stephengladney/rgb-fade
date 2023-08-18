@@ -1,6 +1,6 @@
 type RGB = [number, number, number]
 
-export function fade(color1: RGB, color2: RGB, length: number) {
+export function gradient(color1: RGB, color2: RGB, length: number) {
   const [red1, green1, blue1] = color1
   const [red2, green2, blue2] = color2
 
