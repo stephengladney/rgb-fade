@@ -1,6 +1,10 @@
-### Example
+### How To Use
 
 ```typescript
+type RGB = [number, number, number]
+
+function gradient(color1: RGB, color2: RGB, length: number)
+
 gradient([255, 0, 0], [0, 0, 255], 10)
 
 /* => [
