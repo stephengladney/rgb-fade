@@ -1,0 +1,21 @@
+{
+  "name": "@gladknee/gradient",
+  "version": "1.0.0",
+  "description": "Creates an array of hexidecimal color values from one color to another over a specified length",
+  "main": "dist/gradient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephengladney/rgb-gradient.git"
+  },
+  "keywords": [
+    "gradient"
+  ],
+  "author": "Stephen Gladney",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
